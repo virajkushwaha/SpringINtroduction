@@ -1,0 +1,20 @@
+2025-02-24T11:33:20.653+05:30  INFO 4148 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : Starting HelloWorldApplication using Java 22.0.2 with PID 4148 (E:\CapgeminiTraining\Program_Prerequisite\SpringBoot\HelloWorld\target\classes started by Viraj Kushwaha in E:\CapgeminiTraining\Program_Prerequisite\SpringBoot\HelloWorld)
+2025-02-24T11:33:20.658+05:30  INFO 4148 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-02-24T11:33:21.703+05:30  INFO 4148 --- [HelloWorld] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-02-24T11:33:21.717+05:30  INFO 4148 --- [HelloWorld] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-24T11:33:21.727+05:30  INFO 4148 --- [HelloWorld] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-24T11:33:21.777+05:30  INFO 4148 --- [HelloWorld] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-24T11:33:21.778+05:30  INFO 4148 --- [HelloWorld] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1035 ms
+2025-02-24T11:33:22.207+05:30  INFO 4148 --- [HelloWorld] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-02-24T11:33:22.217+05:30  INFO 4148 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : Started HelloWorldApplication in 2.244 seconds (process running for 2.66)
+2025-02-24T11:33:48.877+05:30  INFO 4148 --- [HelloWorld] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-24T11:33:48.893+05:30  INFO 4148 --- [HelloWorld] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-02-24T11:33:52.241+05:30  INFO 3348 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : Starting HelloWorldApplication using Java 22.0.2 with PID 3348 (E:\CapgeminiTraining\Program_Prerequisite\SpringBoot\HelloWorld\target\classes started by Viraj Kushwaha in E:\CapgeminiTraining\Program_Prerequisite\SpringBoot\HelloWorld)
+2025-02-24T11:33:52.243+05:30  INFO 3348 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-02-24T11:33:53.323+05:30  INFO 3348 --- [HelloWorld] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-02-24T11:33:53.338+05:30  INFO 3348 --- [HelloWorld] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-24T11:33:53.338+05:30  INFO 3348 --- [HelloWorld] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-24T11:33:53.385+05:30  INFO 3348 --- [HelloWorld] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-24T11:33:53.385+05:30  INFO 3348 --- [HelloWorld] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1070 ms
+2025-02-24T11:33:53.851+05:30  INFO 3348 --- [HelloWorld] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-02-24T11:33:53.860+05:30  INFO 3348 --- [HelloWorld] [main] c.h.HelloWorld.HelloWorldApplication     : Started HelloWorldApplication in 2.218 seconds (process running for 2.625)
